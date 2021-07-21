@@ -1,7 +1,15 @@
 .banner {
   height: 100%;
 }
-
+.product {
+  border: 1px solid black;
+  width: 300px;
+}
+.product-details {
+  max-width: 100%;
+  margin: 0 auto;
+  border: 1px solid blue;
+}
 @media (max-width: 576px) {
   .one {
     order: 2;
