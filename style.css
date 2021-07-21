@@ -10,6 +10,9 @@
   margin: 0 auto;
   border: 1px solid blue;
 }
+.img-size {
+  height: 300px;
+}
 @media (max-width: 576px) {
   .one {
     order: 2;
